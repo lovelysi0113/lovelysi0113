@@ -23,18 +23,23 @@
 
 
 <!-- 📌 간단 소개 -->
-### Who Am I
-...
+
 
 <!-- 📌 Experience -->
-### Experience
-- 학교
-- 회사
+## Experience
+- 💼 **Naver** : Front-End Intern (2021.08 ~ 2021.10)
+- 📚 **Code States** : Advanced software engineering, Immersive program (2021.01 ~ 2021.06)
+- 💼 **효성 ITX** : 공공데이터 관리 (2020.09 ~ 2020.12)
+- 💼 **스타트업** : App 개발, 사이트 제작, 제품 기획 및 디자인 (2017.01 ~ 2019.02)
+- 📚 **어학연수** : 뉴질랜드 (2013.03 ~ 2014.07)
+- 📚 **INHA univ.** : 컴퓨터공학과 (2011.03 ~ 2018.02)
 
+<br />
 
 <!-- 📌 Tech Stack -->
-### Tech Stack
+## Tech Stack
 
+### Tech
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
